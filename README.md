@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1> SISTEMA CAFÉAPP  </h1>
-   <img src=https://github.com/vitorpaixaoa/fsphp/blob/master/shared/git-images/home.png" alt="Home" />
+   <img src="https://github.com/vitorpaixaoa/fsphp/blob/master/shared/git-images/home.png" alt="Pagina inicial" />
 </p>
 
 <!-- Badges -->
