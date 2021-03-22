@@ -10,7 +10,6 @@
    <a href="https://www.linkedin.com/in/alan-vitor-paix%C3%A3o-almeida-44651117b/">
       <img alt="Vitor Almeida" src="https://img.shields.io/badge/-Vitor Paixão-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 <!-- Indice-->
@@ -88,10 +87,6 @@ Esse sistema foi desenvolvido na formação FullStack PHP, tem como intuito cria
 #### RODANDO APLICAÇÃO
 Para rodar faça configuração no arquivo "/source/boot/config.php", instale o composer, assim como as dependências.
 
-<!--License session-->
-## 📝 Licença
-### Este projeto está sob a licença [MIT](./LICENSE).
----
 
 <h4 align=center>Desenvolvido por Vitor Paixão <a href="https://www.linkedin.com/in/alan-vitor-paix%C3%A3o-almeida-44651117b/"> <strong>Entre em contato</strong> :)</a></a></h4>
 
